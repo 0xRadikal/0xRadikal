@@ -213,14 +213,17 @@ A **Claude skill** for Q1-level Persian academic writing — 3 modes (full paper
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=0xRadikal&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=7c3aed&icon_color=06b6d4&text_color=c9d1d9" alt="stats"/>
-<img height="170" src="https://github-readme-streak-stats.demolab.com?user=0xRadikal&hide_border=true&theme=radical&background=0D1117&stroke=7c3aed&ring=06b6d4&fire=16a34a&currStreakLabel=06b6d4" alt="streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xRadikal&theme=nightowl" width="98%" alt="profile summary"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRadikal&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" alt="top-langs"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xRadikal&theme=nightowl" alt="repos per language"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xRadikal&theme=nightowl" alt="most commit language"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=0xRadikal&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xRadikal&theme=nightowl" alt="stats"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xRadikal&theme=nightowl&utcOffset=3.5" alt="productive time"/>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-activity-graph.vercel.app/graph?username=0xRadikal&bg_color=0D1117&color=06b6d4&line=7c3aed&point=16a34a&area=true&hide_border=true" alt="activity-graph" width="98%"/></a>
+<img height="180" src="https://streak-stats.demolab.com?user=0xRadikal&theme=tokyonight&hide_border=true&border_radius=8" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xRadikal&bg_color=0D1117&color=06b6d4&line=7c3aed&point=16a34a&area=true&hide_border=true" width="98%" alt="activity graph"/>
 
 </div>
 
