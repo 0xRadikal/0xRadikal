@@ -1,0 +1,4 @@
+# Pinned: the outlines in assets/profile/*.svg depend on the exact shaping/drawing behaviour.
+fonttools==4.65.0
+uharfbuzz==0.56.4
+brotli==1.2.1
