@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+<title id="title">Free Telegram Proxy</title>
+<desc id="desc">Datacenter checks | Proxy lists + dashboard</desc>
+<defs>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2=".8">
+    <stop stop-color="#165CD0"/><stop offset=".62" stop-color="#1B62D5"/><stop offset=".86" stop-color="#247EFD"/><stop offset="1" stop-color="#1958C6"/>
+  </linearGradient>
+  <radialGradient id="light" cx=".35" cy="0" r=".9">
+    <stop stop-color="#CAE2FF" stop-opacity=".04"/><stop offset="1" stop-color="#CAE2FF" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="porcelain" x1="0" y1="0" x2=".35" y2="1">
+    <stop stop-color="#F7F9FD"/><stop offset=".55" stop-color="#EFF2F9"/><stop offset="1" stop-color="#C8DBF7"/>
+  </linearGradient>
+  <filter id="soft" x="-40%" y="-40%" width="180%" height="180%" color-interpolation-filters="sRGB">
+    <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#12489F" flood-opacity=".32"/>
+  </filter>
+  <clipPath id="canvas"><rect width="1200" height="230" rx="28"/></clipPath>
+</defs>
+<style>
+  .signal { animation: travel 12s linear infinite; }
+  @keyframes travel { from { transform: translateX(0); } to { transform: translateX(1072px); } }
+  @media (prefers-reduced-motion: reduce) { .signal { animation: none; opacity: 0; } }
+</style>
+<g clip-path="url(#canvas)">
+  <rect width="1200" height="230" fill="url(#blue)"/>
+  <rect width="1200" height="230" fill="url(#light)"/>
+  <rect x="1" y="1" width="1198" height="228" rx="27" fill="none" stroke="#EFF2F9" stroke-opacity=".18"/>
+<g transform="translate(117 116) scale(1)" filter="url(#soft)"><path d="M-41-38H41Q54-38 54-25V23Q54 36 41 36H-8L-34 53V36H-41Q-54 36-54 23V-25Q-54-38-41-38Z" fill="none" stroke="url(#porcelain)" stroke-width="10" stroke-linejoin="round"/>
+<g fill="url(#porcelain)"><circle cx="-24" cy="-1" r="6"/><circle cx="0" cy="-1" r="6"/><circle cx="24" cy="-1" r="6"/></g></g><text x="227" y="58" fill="#EFF2F9" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">02 / TELEGRAM CONNECTIVITY</text><text x="224" y="120" fill="#EFF2F9" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="49" font-weight="700" letter-spacing="-1.2">Free Telegram Proxy</text><text x="228" y="160" fill="#EFF2F9" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="21" font-weight="400">Datacenter checks · Proxy lists + dashboard</text><path d="M1080 111h45m-15-15 15 15-15 15" fill="none" stroke="#EFF2F9" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><text x="228" y="200" fill="#EFF2F9" font-family="Arial, Helvetica, 'DejaVu Sans', sans-serif" font-size="12" font-weight="700" letter-spacing="1.8">RAYDIKALX / OPEN SOURCE</text></g>
+</svg>
