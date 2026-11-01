@@ -21,6 +21,7 @@
 <a href="https://x.com/0xradikal"><img src="https://img.shields.io/badge/X-@0xradikal-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://t.me/Raydikalx"><img src="https://img.shields.io/badge/Telegram-@Raydikalx-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="https://youtube.com/@crypttopia"><img src="https://img.shields.io/badge/YouTube-Crypttopia-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://github.com/0xRadikal/.github#readme"><img src="https://img.shields.io/badge/Sponsor-Support_my_work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/></a>
 <br/>
 <img src="https://img.shields.io/badge/ENS-radikal.eth-5298FF?style=for-the-badge&logo=ethereum&logoColor=white" alt="ENS"/>
 <img src="https://img.shields.io/badge/MBTI-INTP-7c3aed?style=for-the-badge&logo=brainly&logoColor=white" alt="MBTI"/>
@@ -340,6 +341,7 @@ flowchart LR
 <a href="https://t.me/TgPriceNft"><img src="https://img.shields.io/badge/Channel-@TgPriceNft-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://x.com/0xradikal"><img src="https://img.shields.io/badge/X-@0xradikal-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://youtube.com/@crypttopia"><img src="https://img.shields.io/badge/YouTube-Crypttopia-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/0xRadikal/.github#readme"><img src="https://img.shields.io/badge/Sponsor-Support_my_work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"/></a>
 
 <br/><br/>
 
