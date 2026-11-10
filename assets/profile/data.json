@@ -366,46 +366,47 @@
       ["2026-11-06", 5, 51, 0, 0],
       ["2026-11-07", 6, 51, 0, 0],
       ["2026-11-08", 0, 52, 1, 1],
-      ["2026-11-09", 1, 52, 1, 1]
+      ["2026-11-09", 1, 52, 1, 4],
+      ["2026-11-10", 2, 52, 0, 0]
     ],
-    "total": 704
+    "total": 707
   },
   "github": {
-    "followers": 144,
+    "followers": 143,
     "public_repos": 30,
     "stars": {
-      "Free-Telegram-Proxy": 231,
-      "Free-v2ray-Configs": 809
+      "Free-Telegram-Proxy": 233,
+      "Free-v2ray-Configs": 813
     },
-    "stars_total": 1126
+    "stars_total": 1132
   },
   "mtproto": {
-    "collected": 5345,
-    "dc_ok": 2393,
-    "dns_ok": 4873,
-    "tcp_ok": 3205,
-    "verified_links": 2379,
-    "verified_servers": 711
+    "collected": 5353,
+    "dc_ok": 2353,
+    "dns_ok": 4864,
+    "tcp_ok": 3161,
+    "verified_links": 2303,
+    "verified_servers": 715
   },
   "synced": {
-    "contributions": "2026-11-09",
-    "github": "2026-11-09",
-    "mtproto": "2026-11-09",
-    "t.me/Raydikalx": "2026-11-09",
-    "t.me/TgPriceNft": "2026-11-09",
-    "t.me/crypttopiaa": "2026-11-09",
-    "t.me/v2adikal": "2026-11-09",
-    "v2ray": "2026-11-09"
+    "contributions": "2026-11-10",
+    "github": "2026-11-10",
+    "mtproto": "2026-11-10",
+    "t.me/Raydikalx": "2026-11-10",
+    "t.me/TgPriceNft": "2026-11-10",
+    "t.me/crypttopiaa": "2026-11-10",
+    "t.me/v2adikal": "2026-11-10",
+    "v2ray": "2026-11-10"
   },
   "telegram": {
-    "Raydikalx": 10501,
-    "TgPriceNft": 743,
-    "crypttopiaa": 6013,
-    "v2adikal": 296
+    "Raydikalx": 10543,
+    "TgPriceNft": 741,
+    "crypttopiaa": 6008,
+    "v2adikal": 298
   },
   "v2ray": {
-    "countries": 46,
+    "countries": 45,
     "interval_min": 15,
-    "verified": 1282
+    "verified": 1176
   }
 }
